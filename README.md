@@ -48,6 +48,16 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCampagnolo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
 
 <hr/>
+
+<br/>
+
+<div align="center">
+    <a href="https://www.codedex.io/@MatheusCampagno">
+        <img src="https://www.codedex.io/api/petStatus?user=MatheusCampagno" />
+    </a>
+</div>
+
+<br/>
