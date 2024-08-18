@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 📋 I’m currently studying the **server-side area**
- 
- 🌱 I’m currently learning **NODE, DBMS**
+ 🌱 I’m currently studying **Typescript**
 
  🏫 Studying at **Instituto Federal de São Paulo (IFSP)**
 
@@ -51,13 +49,5 @@
 <br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-    <a href="https://www.codedex.io/@MatheusCampagno">
-        <img src="https://www.codedex.io/api/petStatus?user=MatheusCampagno" />
-    </a>
-</div>
 
 <br/>
