@@ -29,7 +29,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,git,tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express" />
 </div>
 
 <br/>
