@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently studying **Typescript**
+ 🌱 I’m currently studying **Java**
 
  🏫 Studying at **Instituto Federal de São Paulo (IFSP)**
 
