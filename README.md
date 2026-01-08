@@ -12,8 +12,6 @@
 
  🌱 Focused on **Java (Spring Boot)** & **JavaScript (React/Node)** ecosystems
 
- 🏫 Studying at **Instituto Federal de São Paulo (IFSP)**
-
  </div>
 
  <div align="center"> 
