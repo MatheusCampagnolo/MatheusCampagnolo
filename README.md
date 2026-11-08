@@ -44,7 +44,7 @@
 Matheus Messias
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 Full Stack Developer (Back-end focused)
-Java · Spring Boot · Node.js · React
+Java · Spring Boot · Node.js · React · Go
 SP — Brazil 🇧🇷
 B.Sc. Computer Science @ UniMAX | Technical Degree in IT @ IFSP – Campus Salto
 Learning C++ and Embedded Systems
