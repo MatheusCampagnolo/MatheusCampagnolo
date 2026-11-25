@@ -63,11 +63,11 @@ Learning C++ and Embedded Systems
 <div align="center">
   <p>Technologies I work with to build scalable back-end and full-stack applications:</p>
 
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,python,go,cpp&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,go,cpp&perline=7&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind&perline=5&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,git,github,postman&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,postman&perline=5&theme=dark" />
 </div>
 
 <br>
